@@ -1,0 +1,14 @@
+body{
+background-color:silver;
+
+
+}
+section{background-color: aquamarine;
+margin: 1em; transition: all 1s;}
+
+#Grandma-House {background-color:crimson;}
+
+section:hover{background-color: yellow;
+cursor:crosshair}
+
+section{active}
